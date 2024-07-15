@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_AnimalWorld\bin\Debug\HW_AnimalWorld.exe.config
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_AnimalWorld\bin\Debug\HW_AnimalWorld.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_AnimalWorld\bin\Debug\HW_AnimalWorld.pdb
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_AnimalWorld\obj\Debug\HW_AnimalWorld.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_AnimalWorld\obj\Debug\HW_AnimalWorld.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_AnimalWorld\obj\Debug\HW_AnimalWorld.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_AnimalWorld\obj\Debug\HW_AnimalWorld.pdb
